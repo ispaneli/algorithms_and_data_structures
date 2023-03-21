@@ -1,8 +1,5 @@
 from selenium import webdriver
 
-LOGIN = "mocurin"
-PASSWORD = "i_love_ilya :3"
-
 
 if __name__ == "__main__":
     _driver = webdriver.Chrome()
